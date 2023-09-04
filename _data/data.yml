@@ -154,11 +154,13 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: Fraud_detection
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Fraud detection is a set of processes and analyses that allow businesses 
+      to identify and prevent unauthorized financial activity. 
+      This can include fraudulent credit card transactions, 
+      identify theft, cyber hacking, insurance scams, and more.
+ 
     assignments:
       - title: Velocity
         link: "#hook"
