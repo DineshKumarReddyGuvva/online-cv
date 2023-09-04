@@ -8,47 +8,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dinesh Kumar Reddy Guvva
+    tagline: ML Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: guvvadineshreddy@gmail.com
+    phone: 9052322398
+    timezone: India/Chennai Timezone
+    citizenship: India
+    #website: blog.webjeda.com #do not add http://
+    linkedin: https://www.linkedin.com/in/dineshkumarreddyguvva/
+    #xing: alandoe
+    github: https://github.com/DineshKumarReddyGuvva
+    #telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Telugu
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Hindi
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Gaming
           link:
 
-        - item: Snowboarding
+        - item: Badminton
           link:
 
         - item: Cooking
@@ -56,19 +56,17 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: 
+      I Have a very strong technical background in UNIX, Shell Scripting, 
+      Python scripting, SQL with 7 years of experience.
+      Little hands on experience in ML,NLP and Pandas, Numpy libraries 
+      and development of dashboards.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Btech in Electronics and Communication Engineering 
+        university: JNTU Anantapur
+        College: Dr.KVSRIT
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,47 +75,31 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+     
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Production Support Engineer 
+        time: Jun 2022 - Jan 2023
+        company: APT Portfolio Private Limited 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Site Reliability 
+          APT Portfolio is a HFT based company. Which does trading on regular basis 
+            - To ensure that the production process are up and running which run in Linux environment.
+            - Respond to alerts and fix them at the earliest possible
+            - setup configs for new trades, and update the configs, machines 
+            - Automate the required manual process by developing scripts and DAG's
+
+      - role: Application Support Engineer 
+        time: Sep 2021 - Jun 2022
+        company: Tekion Corp 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Tekion is a cloud DMS based organisation.
+            - Provide resolution for the issue over tickets and chats
+            - Monitor the performance and other activities through logs and grafanna.
+            - Data mod's through queries and AWS
+            - Cordinating with developers for release
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
